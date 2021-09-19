@@ -44,7 +44,7 @@ const statuses = [
         service: 'minecraft.net',
         status: 'grey',
         name: 'Minecraft.net',
-        essential: false
+        essential: true
     },
     {
         service: 'account.mojang.com',
@@ -53,8 +53,6 @@ const statuses = [
         essential: false
     }
 ]
-
-// Pas besoin de modifier la suite du fichier
 
 // Functions
 
