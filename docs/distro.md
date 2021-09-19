@@ -20,11 +20,11 @@ The distribution index is written in JSON. The general format of the index is as
             "description": "Example WesterosCraft server. Connect for fun!",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
             "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
+            "address": "37.44.238.20:25781",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Example",
-                "largeImageText": "WesterosCraft Example Server",
+                "largeImageText": "SkyFalls",
                 "largeImageKey": "server-example"
             },
             "mainServer": true,
