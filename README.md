@@ -8,7 +8,8 @@ description: SkyWeb regroupe le launcheur Minecraft et des informations sur le s
 
 ### Fixed
 
-* les images la connexion â Minecraft.net
+* les images 
+* la connexion â Minecraft.net
 
 ### Changed
 
